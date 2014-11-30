@@ -1,4 +1,4 @@
-Dreamweaver Syntax Highlighting for Sublime Text 3
+Sublime Text 3 Dreamweaver Syntax Highlighting
 ===========
 
 A Sublime Text color theme
